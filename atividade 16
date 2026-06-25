@@ -1,0 +1,1 @@
+SELECT SUM(Quantity) FROM OrderDetails WHERE Quantity BETWEEN 10 AND 30;

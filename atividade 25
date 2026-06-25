@@ -1,0 +1,1 @@
+SELECT SUM(Quantity) FROM OrderDetails WHERE ProductID BETWEEN 15 AND 25;
